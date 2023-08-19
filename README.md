@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Akai</h1>
-<h3 align="center">A Student and a gamer who is passionate about coding.</h3>
+[<h1 align="center">Hi 👋, I'm Akai</h1>
+<h3 align="center">A Student who is passionate about coding and learning new skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akai771&label=Profile%20views&color=0e75b6&style=flat" alt="akai771" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack, AI and Machine Learning**
+
+- ⚡ Fun fact **I love Graphic Designing and Video Editing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akai771&show_icons=true&locale=en&layout=compact" alt="akai771" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akai771&show_icons=true&locale=en" alt="akai771" /></p>
+](https://rahuldkjain.github.io/gh-profile-readme-generator/)https://rahuldkjain.github.io/gh-profile-readme-generator/

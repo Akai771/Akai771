@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, AI and Machine Learning**
 
-- ⚡ Fun fact **I love Graphic Designing and Video Editing**
+- ⚡ Fun fact **I love Graphic Designing, Video Editing and Gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

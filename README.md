@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akai771&label=Profile%20views&color=0e75b6&style=flat" alt="akai771" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, AI and Machine Learning**
+- 🌱 I’m currently learning **Next.js, AI and Machine Learning**
 
 - ⚡ Fun fact **I love Graphic Designing, Video Editing and Gaming**
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akai</h1>
-<h3 align="center">A Student who is passionate about coding and learning new skills.</h3>
+<h3 align="center">A Student passionate about coding and learning new skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akai771&label=Profile%20views&color=0e75b6&style=flat" alt="akai771" /> </p>
 
-- 🌱 I’m currently learning **Next.js, AI and Machine Learning**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - ⚡ Fun fact **I love Graphic Designing, Video Editing and Gaming**
 

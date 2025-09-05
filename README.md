@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
-- ⚡ Fun fact **I love Graphic Designing, Video Editing and Gaming**
+- ⚡ Fun fact **I love building new things and Gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
